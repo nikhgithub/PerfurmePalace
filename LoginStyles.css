@@ -1,0 +1,40 @@
+﻿.container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.LoginFormBody {
+    border: groove;
+    border-color: darkgray;
+    border-radius: 3%;
+    padding: 5px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.LoginFormBodyClass {
+    padding: 10px;
+}
+
+.signup {
+    font-size: 30px;
+    font-family: Cursive;
+    padding: 10px;
+}
+
+.labelClass {
+    padding: 3px;
+}
+
+.RegisterButton {
+    background-color: slateblue;
+    border-radius: 3%;
+    border: none;
+    color: white;
+    padding: 5px;
+    width: 190px;
+}
+
+
